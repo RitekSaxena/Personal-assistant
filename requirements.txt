@@ -1,0 +1,16 @@
+
+PyAudio == 0.2.11
+
+
+SpeechRecognition == 3.8.1
+
+google_search == 1.0.2
+
+
+protobuf == 3.11.3
+
+
+pyttsx3 == 2.90
+
+
+wikipedia == 1.4.0
